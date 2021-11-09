@@ -12,8 +12,7 @@
 
 
 <div align="center">
-  <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👦🏻 Valeri Gokadze | 💻 Full
-    Stack Developer | 🇬🇪 Georgia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👦🏻 Valeri Gokadze | 💻 Front-End Developer | 🇬🇪 Georgia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   </h3>
 </div>
 
@@ -23,7 +22,7 @@
   <img align="center" height="270px" width="450px" alt="GIF"
     src="https://media4.giphy.com/media/5UYPlKT14yBna/giphy.gif" />
   <p align="center">
-    <h3> I'm 17 years old Full-Stack developer from Georgia.</h3>
+    <h3> I'm 17 years old Front-End developer from Georgia.</h3>
   </p>
 </div>
 
