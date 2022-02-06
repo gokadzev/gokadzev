@@ -26,15 +26,6 @@
   </p>
 </div>
 
-<h2> Statistic </h2>
-<br />
-<p align="center">
-  <a href="https://github.com/gokadzev/">
-    <img src="https://github-readme-stats.vercel.app/api?username=gokadzev&count_private=true&show_icons=true&theme=radical" />
-  </a>
-
-</p>
-
 </p>
 
 <br />
