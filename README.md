@@ -22,7 +22,7 @@
   <img align="center" height="270px" width="450px" alt="GIF"
     src="https://media4.giphy.com/media/5UYPlKT14yBna/giphy.gif" />
   <p align="center">
-    <h3> I'm 17 years old Front-End developer from Georgia.</h3>
+    <h3> I'm 18 years old Front-End developer from Georgia.</h3>
   </p>
 </div>
 
