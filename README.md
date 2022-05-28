@@ -34,7 +34,11 @@
     style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
     alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
+    alt="ts" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"
+    style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="scss"
     style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular"
     style="vertical-align:top; margin:4px">
@@ -52,7 +56,9 @@
 <p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"
     style="vertical-align:top; margin:4px"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter"
     style="vertical-align:top; margin:4px"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java"
+    style="vertical-align:top; margin:4px"> <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=Capacitor&logoColor=white" alt="capacitor"
     style="vertical-align:top; margin:4px">
+
 
 	
 	
