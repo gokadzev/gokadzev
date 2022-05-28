@@ -45,6 +45,19 @@
   <img
     src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
     alt="vscode" style="vertical-align:top; margin:4px"> </a> </p>
+    
+    
+### Additional:
+
+<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"
+    style="vertical-align:top; margin:4px"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter"
+    style="vertical-align:top; margin:4px"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java"
+    style="vertical-align:top; margin:4px">
+
+	
+	
+
+</p>
 
 <br>
 
