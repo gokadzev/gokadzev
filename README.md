@@ -1,22 +1,18 @@
 <div align="center"> <img src="./assets/img/header.png"> </div>
 
-<br>
-
 ---
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=gokadzev&label=Profile%20views&color=0e75b6&style=flat"
-    alt="" /> 
-  </p>
-
 <br>
 
-<p><img align="right" src="https://user-images.githubusercontent.com/79704324/152801999-8d11dcde-cc4b-46cc-a4e2-4ab09f53ba85.gif" alt="gokadzev" /></p>
+<div align="center">
+	<img src="https://komarev.com/ghpvc/?username=gokadzev&label=Profile%20views&color=0e75b6&style=flat" alt="Views" /> 
+</p>
 
+<br><br>
 
-- 🌱 I’m currently learning Web Development and other programming languages
+<img align="right" src="https://user-images.githubusercontent.com/79704324/152801999-8d11dcde-cc4b-46cc-a4e2-4ab09f53ba85.gif" alt="gokadzev" />
 
-
-<br>
+<br><br>
 
 ## 🔗 Connect with me:
 <p align="left">
@@ -64,7 +60,7 @@
     style="vertical-align:top; margin:4px">
 	</a></p>
 
-<br>
+<br> <br> <br>
 
 ## 📊 Github Stats (Expand to View)
 
