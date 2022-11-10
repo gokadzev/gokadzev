@@ -1,6 +1,8 @@
-![Header](./assets/img/header.png)
+<div align="center"> <img src="./assets/img/header.png"> </div>
 
 <br>
+
+---
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=gokadzev&label=Profile%20views&color=0e75b6&style=flat"
     alt="" /> 
