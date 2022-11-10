@@ -41,7 +41,7 @@
     style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
     alt="bootstrap" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="ionic"
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter"
     style="vertical-align:top; margin:4px">
   <img
     src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
@@ -54,8 +54,8 @@
 ### Additional:
 
 <p align="left"> <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"
-    style="vertical-align:top; margin:4px"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter"
     style="vertical-align:top; margin:4px"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java"
+    style="vertical-align:top; margin:4px"> <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="ionic"
     style="vertical-align:top; margin:4px"> <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=Capacitor&logoColor=white" alt="capacitor"
     style="vertical-align:top; margin:4px">
 	</a></p>
