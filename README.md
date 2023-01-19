@@ -64,16 +64,6 @@
 
 ## 📊 Github Stats (Expand to View)
 
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/gokadzev"><img align="center" src="https://github-readme-stats.vercel.app/api/?username=gokadzev&show_icons=true&locale=en&theme=algolia" alt="gokadzev" height="192px"/></a>
-	</p>
-  <br/>
-  </p>
-</details>
-
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
