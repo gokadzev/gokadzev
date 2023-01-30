@@ -2,13 +2,11 @@
 
 ---
 
-<br>
-
 <div align="center">
 	<img src="https://komarev.com/ghpvc/?username=gokadzev&label=Profile%20views&color=0e75b6&style=flat" alt="Views" /> 
 </p>
 
-<br><br>
+<br />
 
 ## 🔗 Connect with me:
 <p align="center">
@@ -20,12 +18,13 @@
     </a>
   </p>
 
-</br></br>
+<br /><br />
 
-<img align="right" src="https://user-images.githubusercontent.com/79704324/215431896-5c0dfc34-9ad7-4e18-a839-7faec663c6c7.gif" alt="gokadzev" />
+<img align="right" style="margin-bottom: 10px" src="https://user-images.githubusercontent.com/79704324/215431896-5c0dfc34-9ad7-4e18-a839-7faec663c6c7.gif" alt="gokadzev" />
 
 
 ## 🛠️ Languages and Tools:
+
 <p align="left"> <a href="#" target="_blank" rel="noreferrer">   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"
     style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
@@ -60,7 +59,7 @@
 	</a></p>
 
 
-<br/><br/><br/>
+<br /><br /><br />
 
 ## 📊 Github Stats (Expand to View)
 
@@ -70,7 +69,7 @@
   <p align="center">
     <a href="https://github.com/gokadzev"><img align="center" src="https://github-readme-stats.vercel.app/api/?username=gokadzev&count_private=true&show_icons=true&locale=en&theme=algolia" alt="gokadzev" height="192px"/></a>
 	</p>
-  <br/>
+  <br />
   </p>
 </details>
 
@@ -78,9 +77,9 @@
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/gokadzev"><img alt="Valeri Gokadze's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=gokadzev&custom_title=Valeri%20Gokadze's%20Activity%20Graph&theme=react-dark" /></a>
-  <br/>
+  <br />
 
 </details>
 
-<br/>
+<br />
 
