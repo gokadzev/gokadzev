@@ -15,8 +15,8 @@
 
 <br /><br />
 
-<img align="right" style="margin-bottom: 10px" src="https://user-images.githubusercontent.com/79704324/215431896-5c0dfc34-9ad7-4e18-a839-7faec663c6c7.gif" alt="gokadzev" />
 
+![developing](https://user-images.githubusercontent.com/79704324/215431896-5c0dfc34-9ad7-4e18-a839-7faec663c6c7.gif)
 
 ## 🛠️ Languages and Tools:
 
