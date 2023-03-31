@@ -21,23 +21,23 @@
 ## 🛠️ Languages and Tools:
 <br />
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://user-images.githubusercontent.com/79704324/229188830-f442a259-1ee1-45cb-962c-54b8d102d1cb.png)
+![JavaScript](https://user-images.githubusercontent.com/79704324/229189011-9af71164-dc50-4f40-8283-0b64b522ac00.png)
+![CSS3](https://user-images.githubusercontent.com/79704324/229188522-631f8e71-aff0-47d4-8177-658a2e62190e.png)
+![Sass](https://user-images.githubusercontent.com/79704324/229192211-c12e66ce-6764-4338-9322-8c50b8eec223.png)
+![Bootstrap](https://user-images.githubusercontent.com/79704324/229193933-ccfb6478-fbba-4942-b58e-f014558695bd.png)
+![Flutter](https://user-images.githubusercontent.com/79704324/229192489-ace13880-4127-494f-a6c9-419f9ec9bf7c.png)
+![Git](https://user-images.githubusercontent.com/79704324/229192648-b9caade7-c1db-4ea2-b4db-5df39f3a8cef.png)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://user-images.githubusercontent.com/79704324/229194630-4aea45b4-dae4-40ac-8579-28dc015b0f8a.png)
 
     
 **I also use:**
 
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+![python](https://user-images.githubusercontent.com/79704324/229194337-4aabb393-ed4b-41ea-8d22-df3e74af38d9.png)
+![java](https://user-images.githubusercontent.com/79704324/229194477-818c0c7a-f5c4-44d8-b06f-2ccbf1c01c66.png)
+![ionic](https://user-images.githubusercontent.com/79704324/229194189-105437f5-1807-4ef8-b29c-12fa0899c40f.png)
 ![capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=Capacitor&logoColor=white)
 
 
@@ -65,4 +65,8 @@
 </details>
 
 <br />
+
+---
+
+
 
