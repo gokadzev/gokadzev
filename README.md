@@ -38,7 +38,6 @@
 ![python](https://user-images.githubusercontent.com/79704324/229194337-4aabb393-ed4b-41ea-8d22-df3e74af38d9.png)
 ![java](https://user-images.githubusercontent.com/79704324/229194477-818c0c7a-f5c4-44d8-b06f-2ccbf1c01c66.png)
 ![ionic](https://user-images.githubusercontent.com/79704324/229194189-105437f5-1807-4ef8-b29c-12fa0899c40f.png)
-![capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=Capacitor&logoColor=white)
 
 
 
