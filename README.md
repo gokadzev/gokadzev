@@ -33,12 +33,6 @@
 ![Git](https://user-images.githubusercontent.com/79704324/229192648-b9caade7-c1db-4ea2-b4db-5df39f3a8cef.png)
 ![VS Code](https://user-images.githubusercontent.com/79704324/229194630-4aea45b4-dae4-40ac-8579-28dc015b0f8a.png)
 
-    
-**I also use:**
-
-![java](https://user-images.githubusercontent.com/79704324/229194477-818c0c7a-f5c4-44d8-b06f-2ccbf1c01c66.png)
-
-
 
 <br />
 
