@@ -1,12 +1,10 @@
 <div align="center"> <img src="./assets/img/header.png"> </div>
 
 ---
-
 <div align="center">
-	<img src="https://komarev.com/ghpvc/?username=gokadzev&label=Profile%20views&color=0e75b6&style=flat" alt="Views" /> 
-</p>
 
 
+[![GitHub followers](https://img.shields.io/github/followers/gokadzev?logo=GitHub&style=for-the-badge)](https://github.com/gokadzev) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/gokadzev?logo=github&style=for-the-badge)](https://github.com/gokadzev) &nbsp; [![GitHub profile views](https://komarev.com/ghpvc/?username=gokadzev&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/gokadzev)
 
 ## 🔗 Connect with me:
 
