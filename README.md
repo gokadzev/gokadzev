@@ -47,12 +47,22 @@
 </details>
 
 <details>
+  <summary><b>🔥 GitHub Streak</b></summary>
+  <br/>
+   <a href="https://github.com/gokadzev"><img alt="Valeri Gokadze's Activity Graph" src="https://github-readme-streak-stats.herokuapp.com/?user=gokadzev&theme=dark" /></a>
+  <br />
+
+</details>
+
+<details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/gokadzev"><img alt="Valeri Gokadze's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=gokadzev&custom_title=Valeri%20Gokadze's%20Activity%20Graph&theme=react-dark" /></a>
   <br />
 
 </details>
+
+
 
 <br />
 
