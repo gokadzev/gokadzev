@@ -39,11 +39,8 @@
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
-  <p align="center">
     <a href="https://github.com/gokadzev"><img align="center" src="https://github-readme-stats.vercel.app/api/?username=gokadzev&show_icons=true&hide=issues&locale=en&theme=holi" alt="gokadzev" height="192px"/></a>
-	</p>
   <br />
-  </p>
 </details>
 
 <details>
@@ -51,7 +48,6 @@
   <br/>
    <a href="https://github.com/gokadzev"><img alt="Valeri Gokadze's Activity Graph" src="https://github-readme-streak-stats.herokuapp.com/?user=gokadzev&theme=dark&ring=5090CB&fire=5090CB&stroke=5090CB&currStreakLabel=5090CB&border=5090CB" /></a>
   <br />
-
 </details>
 
 <details>
@@ -59,7 +55,6 @@
   <br/>
    <a href="https://github.com/gokadzev"><img alt="Valeri Gokadze's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=gokadzev&custom_title=Valeri%20Gokadze's%20Activity%20Graph&theme=tokyo-night" /></a>
   <br />
-
 </details>
 
 
