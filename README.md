@@ -37,14 +37,14 @@
 <details>
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
-    <a href="https://github.com/gokadzev"><img align="center" src="https://github-readme-stats.vercel.app/api/?username=gokadzev&theme=dark&show_icons=true&hide=issues&locale=en&title_color=2DD4B9&icon_color=2DD4B9&text_color=2DD4B9" alt="gokadzev" height="192px"/></a>
+    <a href="https://github.com/gokadzev"><img alt="Valeri Gokadze's Profile Stats" align="center" src="https://github-readme-stats.vercel.app/api/?username=gokadzev&theme=dark&show_icons=true&hide=issues&locale=en&title_color=2DD4B9&icon_color=2DD4B9&text_color=2DD4B9" height="192px"/></a>
   <br />
 </details>
 
 <details>
   <summary><b>🔥 GitHub Streak</b></summary>
   <br/>
-   <a href="https://github.com/gokadzev"><img alt="Valeri Gokadze's Activity Graph" src="https://github-readme-streak-stats.herokuapp.com/?user=gokadzev&theme=dark&ring=2DD4B9&fire=2DD4B9&stroke=2DD4B9&currStreakLabel=2DD4B9&border=2DD4B9" /></a>
+   <a href="https://github.com/gokadzev"><img alt="Valeri Gokadze's Streak Graph" src="https://github-readme-streak-stats-eight.vercel.app/?user=gokadzev&theme=dark&ring=2DD4B9&fire=2DD4B9&stroke=2DD4B9&currStreakLabel=2DD4B9&border=2DD4B9" /></a>
   <br />
 </details>
 
