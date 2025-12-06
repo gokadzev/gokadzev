@@ -34,12 +34,12 @@
 
 ## 📊 Github Stats (Expand to View)
 
-<details>
+<!-- <details>
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
     <a href="https://github.com/gokadzev"><img alt="Valeri Gokadze's Profile Stats" align="center" src="https://github-readme-stats.vercel.app/api/?username=gokadzev&theme=dark&show_icons=true&hide=issues&locale=en&title_color=2DD4B9&icon_color=2DD4B9&text_color=2DD4B9" height="192px"/></a>
   <br />
-</details>
+</details> -->
 
 <details>
   <summary><b>🔥 GitHub Streak</b></summary>
